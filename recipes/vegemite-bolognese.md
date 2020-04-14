@@ -1,5 +1,5 @@
 
-# recipes
+# RECIPES
 
 [Vegemite-Bolognese](https://vegemite.com.au/recipes/vegemite-bolognese/)
 
