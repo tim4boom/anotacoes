@@ -1,0 +1,1964 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "geometry" : {
+      "coordinates" : [ 12.5408376, 47.0004342 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3500949722380749283",
+      "Location" : {
+        "Address" : "Kirchplatz 2, 9971 Matrei in Osttirol, Austria",
+        "Business Name" : "Hohe Tauern National Park",
+        "Country Code" : "AT",
+        "Geo Coordinates" : {
+          "Latitude" : "47.0004342",
+          "Longitude" : "12.5408376"
+        }
+      },
+      "Published" : "2020-04-14T17:23:54Z",
+      "Title" : "Nationalpark Hohe Tauern",
+      "Updated" : "2020-04-14T17:23:54Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 10.934934, 47.368815 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Seebensee,+%C3%96sterreich&ftid=0x479d1d7cc3b0b439:0x4e487390cf2e5aa8",
+      "Location" : {
+        "Latitude" : "47.368815",
+        "Longitude" : "10.934934"
+      },
+      "Published" : "2020-04-14T17:23:46Z",
+      "Title" : "Seebensee, Österreich",
+      "Updated" : "2020-04-14T17:23:46Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.0852761, 58.4389881 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2132164265019080283",
+      "Location" : {
+        "Address" : "13 Harbour Terrace, Wick KW1 5HB, United Kingdom",
+        "Business Name" : "North Coast 500 Ltd",
+        "Country Code" : "GB",
+        "Geo Coordinates" : {
+          "Latitude" : "58.4389881",
+          "Longitude" : "-3.0852761"
+        }
+      },
+      "Published" : "2020-04-14T17:23:25Z",
+      "Title" : "North Coast 500 Ltd",
+      "Updated" : "2020-04-14T17:23:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.399828, 54.347928 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Amt+Dar%C3%9F/Fischland&ftid=0x47acecce0468f24b:0x357261cd928bc842",
+      "Location" : {
+        "Latitude" : "54.347928",
+        "Longitude" : "12.399828"
+      },
+      "Published" : "2020-04-14T17:23:09Z",
+      "Title" : "Amt Darß/Fischland",
+      "Updated" : "2020-04-14T17:23:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 25.970207, 70.982291 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=9750+Honningsv%C3%A5g,+Norwegen&ftid=0x45c9a941d0d2fa49:0xbda760a333169846",
+      "Location" : {
+        "Latitude" : "70.982291",
+        "Longitude" : "25.970207"
+      },
+      "Published" : "2020-04-14T17:22:57Z",
+      "Title" : "Honningsvåg, 9750, Norwegen",
+      "Updated" : "2020-04-14T17:22:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 20.136608, 40.303420 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Ao%C3%B6s&ftid=0x135a4d9112f11119:0xf1178497b1269e80",
+      "Location" : {
+        "Latitude" : "40.303420",
+        "Longitude" : "20.136608"
+      },
+      "Published" : "2020-04-14T17:22:43Z",
+      "Title" : "Aoös",
+      "Updated" : "2020-04-14T17:22:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 20.018167, 40.296663 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Tepelena,+Albanien&ftid=0x135ae6196ad85fc5:0x1e11b8c8bf5d4078",
+      "Location" : {
+        "Latitude" : "40.296663",
+        "Longitude" : "20.018167"
+      },
+      "Published" : "2020-04-14T17:22:28Z",
+      "Title" : "Tepelena, Albanien",
+      "Updated" : "2020-04-14T17:22:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.228171, 52.445111 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=52.445110899999996,13.228171399999999",
+      "Location" : {
+        "Latitude" : "52.445111",
+        "Longitude" : "13.228171"
+      },
+      "Published" : "2020-04-14T17:22:14Z",
+      "Title" : "52.445110899999996,13.228171399999999",
+      "Updated" : "2020-04-14T17:22:14Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.1898010, 52.4547730 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12941062572679762471",
+      "Location" : {
+        "Address" : "Germany",
+        "Business Name" : "Große Steinlanke (Berlin)",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.4547730",
+          "Longitude" : "13.1898010"
+        }
+      },
+      "Published" : "2020-04-14T17:21:57Z",
+      "Title" : "Große Steinlanke (Berlin)",
+      "Updated" : "2020-04-14T17:21:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.595344, 52.752322 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Hellm%C3%BChle,+16321+Biesenthal&ftid=0x47a9b0f0fa8d59d3:0x157ee1404dab341c",
+      "Location" : {
+        "Latitude" : "52.752322",
+        "Longitude" : "13.595344"
+      },
+      "Published" : "2020-04-14T17:21:40Z",
+      "Title" : "Hellmühle, 16321 Biesenthal",
+      "Updated" : "2020-04-14T17:21:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.624691, 52.446974 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=52.44697360000001,13.624690699999999",
+      "Location" : {
+        "Latitude" : "52.446974",
+        "Longitude" : "13.624691"
+      },
+      "Published" : "2020-04-14T17:21:30Z",
+      "Title" : "52.44697360000001,13.624690699999999",
+      "Updated" : "2020-04-14T17:21:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -75.8581680, 9.7932430 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7315813404346303090",
+      "Location" : {
+        "Address" : "San Bernando Islas, Costa Caribe, Colombia",
+        "Business Name" : "House on water",
+        "Country Code" : "CO",
+        "Geo Coordinates" : {
+          "Latitude" : "9.7932430",
+          "Longitude" : "-75.8581680"
+        }
+      },
+      "Published" : "2020-04-14T17:20:25Z",
+      "Title" : "Casa en el Agua",
+      "Updated" : "2020-04-14T17:20:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.133867, 53.294396 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Dun+Laoghaire,+Dublin,+Irland&ftid=0x486707defb471c8f:0xa00c7a9973229f0",
+      "Location" : {
+        "Latitude" : "53.294396",
+        "Longitude" : "-6.133867"
+      },
+      "Published" : "2020-04-14T17:20:13Z",
+      "Title" : "Dun Laoghaire, Dublin, Irland",
+      "Updated" : "2020-04-14T17:20:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.3875929, 52.5112094 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5978374952795598817",
+      "Location" : {
+        "Address" : "Kronenstraße 72, 10117 Berlin, Germany",
+        "Business Name" : "Liu 成都味道面馆 Nudelhaus",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.5112094",
+          "Longitude" : "13.3875929"
+        }
+      },
+      "Published" : "2020-04-14T17:19:48Z",
+      "Title" : "Liu 成都味道面馆 Nudelhaus",
+      "Updated" : "2020-04-14T17:19:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 113.8629999, 22.2547030 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13420812524196553339",
+      "Location" : {
+        "Address" : "68 Kat Hing Street, Tai O, Hong Kong",
+        "Business Name" : "Tai O Banyan Tree 大澳榕樹頭",
+        "Country Code" : "HK",
+        "Geo Coordinates" : {
+          "Latitude" : "22.2547030",
+          "Longitude" : "113.8629999"
+        }
+      },
+      "Published" : "2020-04-14T17:19:31Z",
+      "Title" : "Tai O Banyan Tree 大澳榕樹頭",
+      "Updated" : "2020-04-14T17:19:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.5443267, 35.8376397 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7989876307880890104",
+      "Location" : {
+        "Address" : "144 Xatt is-Sajjieda, Marsaxlokk, Malta",
+        "Business Name" : "Haber 16",
+        "Country Code" : "MT",
+        "Geo Coordinates" : {
+          "Latitude" : "35.8376397",
+          "Longitude" : "14.5443267"
+        }
+      },
+      "Published" : "2020-04-14T17:19:22Z",
+      "Title" : "Haber 16",
+      "Updated" : "2020-04-14T17:19:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -81.6617585, 45.2570496 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8069558508763284558",
+      "Location" : {
+        "Address" : "53 Bay Street, Tobermory, ON N0H 2R0, Canada",
+        "Business Name" : "Coconut Joe's Harbour Bar and Grill",
+        "Country Code" : "CA",
+        "Geo Coordinates" : {
+          "Latitude" : "45.2570496",
+          "Longitude" : "-81.6617585"
+        }
+      },
+      "Published" : "2020-04-14T17:19:08Z",
+      "Title" : "Coconut Joe's Harbour Bar and Grill",
+      "Updated" : "2020-04-14T17:19:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -85.6961381, 10.5338574 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2978990621655343673",
+      "Location" : {
+        "Address" : "Vista Marina, Provincia de Guanacaste, Coco, Costa Rica",
+        "Business Name" : "The Lookout Restaurant",
+        "Country Code" : "CR",
+        "Geo Coordinates" : {
+          "Latitude" : "10.5338574",
+          "Longitude" : "-85.6961381"
+        }
+      },
+      "Published" : "2020-04-14T17:18:58Z",
+      "Title" : "The Lookout Restaurant",
+      "Updated" : "2020-04-14T17:18:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 10.3414285, 47.1492975 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14793975008122934648",
+      "Location" : {
+        "Address" : "Pettneu am Arlberg 117, 6574 Pettneu am Arlberg, Austria",
+        "Business Name" : "Pension Edelweiss",
+        "Country Code" : "AT",
+        "Geo Coordinates" : {
+          "Latitude" : "47.1492975",
+          "Longitude" : "10.3414285"
+        }
+      },
+      "Published" : "2020-04-14T17:18:47Z",
+      "Title" : "Pension Edelweiss",
+      "Updated" : "2020-04-14T17:18:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -61.0203201, 13.9622879 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8362055792283624489",
+      "Location" : {
+        "Address" : "Waterfront Road Marigot Bay, St. Lucia",
+        "Business Name" : "Roots 2",
+        "Country Code" : "LC",
+        "Geo Coordinates" : {
+          "Latitude" : "13.9622879",
+          "Longitude" : "-61.0203201"
+        }
+      },
+      "Published" : "2020-04-14T17:18:18Z",
+      "Title" : "Roots 2",
+      "Updated" : "2020-04-14T17:18:18Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -79.955392, -3.258111 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Machala,+Ecuador&ftid=0x90330e252f104ed1:0xea4e189f2b2da97e",
+      "Location" : {
+        "Latitude" : "-3.258111",
+        "Longitude" : "-79.955392"
+      },
+      "Published" : "2020-04-14T17:18:02Z",
+      "Title" : "Machala, Ecuador",
+      "Updated" : "2020-04-14T17:18:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -76.250830, -13.840915 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Paracas,+Peru&ftid=0x911062d8942674f3:0xb292160966de04cb",
+      "Location" : {
+        "Latitude" : "-13.840915",
+        "Longitude" : "-76.250830"
+      },
+      "Published" : "2020-04-14T17:17:28Z",
+      "Title" : "Paracas, Peru",
+      "Updated" : "2020-04-14T17:17:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.9176677, 47.5528926 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10955458369046154315",
+      "Location" : {
+        "Address" : "Berchtesgadener Straße 91, 83486 Ramsau bei Berchtesgaden, Germany",
+        "Business Name" : "Berchtesgaden National Park",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "47.5528926",
+          "Longitude" : "12.9176677"
+        }
+      },
+      "Published" : "2020-04-14T15:35:03Z",
+      "Title" : "Nationalpark Berchtesgaden",
+      "Updated" : "2020-04-14T15:35:03Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.7999483, 47.5590842 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16801247925755909286",
+      "Location" : {
+        "Address" : "83486 Ramsau bei Berchtesgaden, Germany",
+        "Business Name" : "Bindalm",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "47.5590842",
+          "Longitude" : "12.7999483"
+        }
+      },
+      "Published" : "2020-04-14T15:34:55Z",
+      "Title" : "Bindalm",
+      "Updated" : "2020-04-14T15:34:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.0121861, 47.5019444 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7987300817370899465",
+      "Location" : {
+        "Address" : "83471 Schönau am Königssee, Germany",
+        "Business Name" : "Röthbach Waterfall",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "47.5019444",
+          "Longitude" : "13.0121861"
+        }
+      },
+      "Published" : "2020-04-14T15:34:46Z",
+      "Title" : "Röthbachfall",
+      "Updated" : "2020-04-14T15:34:46Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -119.637673, 37.733931 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=El+Capitan,+Kalifornien+95389,+USA&ftid=0x8096edd824db8fbd:0x57adcc762fb3d403",
+      "Location" : {
+        "Latitude" : "37.733931",
+        "Longitude" : "-119.637673"
+      },
+      "Published" : "2020-04-14T15:34:30Z",
+      "Title" : "El Capitan, Kalifornien 95389, USA",
+      "Updated" : "2020-04-14T15:34:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.3943928, 52.5321286 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16542063579455613153",
+      "Location" : {
+        "Address" : "Invalidenstraße 148, 10115 Berlin, Germany",
+        "Business Name" : "Record Store Berlin",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.5321286",
+          "Longitude" : "13.3943928"
+        }
+      },
+      "Published" : "2020-03-11T09:27:09Z",
+      "Title" : "Record Store Berlin",
+      "Updated" : "2020-03-11T09:27:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -60.655306, -32.979881 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Cnel.+M.+Biedma+1700,+S2001+Rosario,+Santa+Fe,+Argentina&ftid=0x95b7ab9713361777:0x6100811162c419e",
+      "Location" : {
+        "Latitude" : "-32.979881",
+        "Longitude" : "-60.655306"
+      },
+      "Published" : "2020-02-29T15:59:01Z",
+      "Title" : "Cnel. M. Biedma 1700, S2001 Rosario, Santa Fe, Argentina",
+      "Updated" : "2020-02-29T15:59:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 2.3421680, 48.8457930 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2013346206971084464",
+      "Location" : {
+        "Address" : "6 Rue Royer-Collard, 75005 Paris, France",
+        "Business Name" : "The Crocodile",
+        "Country Code" : "FR",
+        "Geo Coordinates" : {
+          "Latitude" : "48.8457930",
+          "Longitude" : "2.3421680"
+        }
+      },
+      "Published" : "2020-01-24T17:17:56Z",
+      "Title" : "The Crocodile",
+      "Updated" : "2020-01-24T17:17:56Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.4276280, 52.4807266 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17000899418513000300",
+      "Location" : {
+        "Address" : "Mainzer Straße 23, 12053 Berlin, Germany",
+        "Business Name" : "Deriva",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.4807266",
+          "Longitude" : "13.4276280"
+        }
+      },
+      "Published" : "2020-01-23T22:23:59Z",
+      "Title" : "Deriva",
+      "Updated" : "2020-01-23T22:23:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.4141972, 52.5409194 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6752975882028488609",
+      "Location" : {
+        "Address" : "Danziger Straße 9, 10435 Berlin, Germany",
+        "Business Name" : "Zum Schusterjungen",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.5409194",
+          "Longitude" : "13.4141972"
+        }
+      },
+      "Published" : "2019-12-23T13:04:45Z",
+      "Title" : "Zum Schusterjungen",
+      "Updated" : "2019-12-23T13:04:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 153.023485, -27.478314 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=-27.478314,153.023485",
+      "Location" : {
+        "Latitude" : "-27.478314",
+        "Longitude" : "153.023485"
+      },
+      "Published" : "2019-11-18T01:48:59Z",
+      "Title" : "-27.478314,153.023485",
+      "Updated" : "2019-12-14T14:20:39Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 151.266948, -33.889495 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=110+Barracluff+Ave,+Bondi+Beach+NSW+2026,+Australia&ftid=0x6b12ad90c739c5a1:0x34c79fbe23467884",
+      "Location" : {
+        "Latitude" : "-33.889495",
+        "Longitude" : "151.266948"
+      },
+      "Published" : "2019-11-28T03:53:10Z",
+      "Title" : "110 Barracluff Ave, Bondi Beach NSW 2026, Australia",
+      "Updated" : "2019-11-28T03:53:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 153.015379, -30.501473 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=28+High+St,+Urunga+NSW+2455,+Australia&ftid=0x6b9c3d33573ac9d7:0x1baf3d3c1172bfb5",
+      "Location" : {
+        "Latitude" : "-30.501473",
+        "Longitude" : "153.015379"
+      },
+      "Published" : "2019-11-25T09:10:24Z",
+      "Title" : "28 High St, Urunga NSW 2455, Australia",
+      "Updated" : "2019-11-25T09:10:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 153.021164, -30.512379 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Barmutha,+142+Hungry+Head+Rd,+Urunga+NSW+2455,+Australia&ftid=0x6b9c3d2ea59f1bcb:0x9f9c427f0233c268",
+      "Location" : {
+        "Latitude" : "-30.512379",
+        "Longitude" : "153.021164"
+      },
+      "Published" : "2019-11-25T09:02:24Z",
+      "Title" : "Barmutha, 142 Hungry Head Rd, Urunga NSW 2455, Australia",
+      "Updated" : "2019-11-25T09:02:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 153.1147222, -30.2950000 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5247728353532469908",
+      "Location" : {
+        "Address" : "88 Grafton Street, Coffs Harbour NSW 2450, Australia",
+        "Business Name" : "The Plantation Hotel",
+        "Country Code" : "AU",
+        "Geo Coordinates" : {
+          "Latitude" : "-30.2950000",
+          "Longitude" : "153.1147222"
+        }
+      },
+      "Published" : "2019-11-25T08:20:07Z",
+      "Title" : "The Plantation Hotel",
+      "Updated" : "2019-11-25T08:20:07Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 153.1136848, -30.2958729 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7430569233471890718",
+      "Location" : {
+        "Address" : "135 West High Street, Coffs Harbour NSW 2450, Australia",
+        "Business Name" : "The Coffs Hotel",
+        "Country Code" : "AU",
+        "Geo Coordinates" : {
+          "Latitude" : "-30.2958729",
+          "Longitude" : "153.1136848"
+        }
+      },
+      "Published" : "2019-11-25T08:19:46Z",
+      "Title" : "The Coffs Hotel",
+      "Updated" : "2019-11-25T08:19:46Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 153.1123738, -30.2981095 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5719702822860957605",
+      "Location" : {
+        "Address" : "2 Moonee Street, Coffs Harbour NSW 2450, Australia",
+        "Business Name" : "The Coast Hotel",
+        "Country Code" : "AU",
+        "Geo Coordinates" : {
+          "Latitude" : "-30.2981095",
+          "Longitude" : "153.1123738"
+        }
+      },
+      "Published" : "2019-11-25T06:52:08Z",
+      "Title" : "The Coast Hotel",
+      "Updated" : "2019-11-25T06:52:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 153.152036, -30.305135 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Muttonbird+Island,+Coffs+Harbour+NSW+2450,+Australia&ftid=0x6b9c0d9ed87ff145:0x44e170061bf42840",
+      "Location" : {
+        "Latitude" : "-30.305135",
+        "Longitude" : "153.152036"
+      },
+      "Published" : "2019-11-24T09:30:12Z",
+      "Title" : "Muttonbird Island, Coffs Harbour NSW 2450, Australia",
+      "Updated" : "2019-11-24T09:30:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 153.1095289, -30.2664777 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13730411381290408573",
+      "Location" : {
+        "Address" : "Australia",
+        "Business Name" : "Forest Sky Pier",
+        "Country Code" : "AU",
+        "Geo Coordinates" : {
+          "Latitude" : "-30.2664777",
+          "Longitude" : "153.1095289"
+        }
+      },
+      "Published" : "2019-11-24T09:29:43Z",
+      "Title" : "Forest Sky Pier",
+      "Updated" : "2019-11-24T09:29:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 153.1432812, -30.3050010 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6971243747763615323",
+      "Location" : {
+        "Address" : "Jordan Esplanade, Coffs Harbour NSW 2450, Australia",
+        "Business Name" : "Coffs Harbour Jetty",
+        "Country Code" : "AU",
+        "Geo Coordinates" : {
+          "Latitude" : "-30.3050010",
+          "Longitude" : "153.1432812"
+        }
+      },
+      "Published" : "2019-11-24T09:29:17Z",
+      "Title" : "Coffs Harbour Jetty",
+      "Updated" : "2019-11-24T09:29:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 153.1387289, -30.2865612 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15530165019532168534",
+      "Location" : {
+        "Address" : "84 Ocean Parade, Coffs Harbour NSW 2450, Australia",
+        "Business Name" : "The Hoey Moey",
+        "Country Code" : "AU",
+        "Geo Coordinates" : {
+          "Latitude" : "-30.2865612",
+          "Longitude" : "153.1387289"
+        }
+      },
+      "Published" : "2019-11-24T01:52:16Z",
+      "Title" : "The Hoey Moey",
+      "Updated" : "2019-11-24T01:52:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 153.050000, -27.466667 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=New+Farm+Park,+New+Farm+QLD+4005,+Australia&ftid=0x6b915988788b0a21:0x43be37a4e4b8695e",
+      "Location" : {
+        "Latitude" : "-27.466667",
+        "Longitude" : "153.050000"
+      },
+      "Published" : "2019-11-18T02:03:30Z",
+      "Title" : "New Farm Park, New Farm QLD 4005, Australia",
+      "Updated" : "2019-11-18T02:03:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 153.0203148, -27.4637221 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7727311371159766200",
+      "Location" : {
+        "Address" : "1 Parkland Boulevard, Brisbane City QLD 4000, Australia",
+        "Business Name" : "Roma Street Parkland",
+        "Country Code" : "AU",
+        "Geo Coordinates" : {
+          "Latitude" : "-27.4637221",
+          "Longitude" : "153.0203148"
+        }
+      },
+      "Published" : "2019-11-18T01:56:43Z",
+      "Title" : "Roma Street Parkland",
+      "Updated" : "2019-11-18T01:56:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 153.0358212, -27.4635918 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5208418891653668458",
+      "Location" : {
+        "Address" : "State Route 15, New Farm QLD 4169, Australia",
+        "Business Name" : "Story Bridge",
+        "Country Code" : "AU",
+        "Geo Coordinates" : {
+          "Latitude" : "-27.4635918",
+          "Longitude" : "153.0358212"
+        }
+      },
+      "Published" : "2019-11-18T01:50:18Z",
+      "Title" : "Story Bridge",
+      "Updated" : "2019-11-18T01:50:18Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 153.0226593, -27.4777164 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16898511993444788759",
+      "Location" : {
+        "Address" : "Stanley Street Plaza, South Brisbane QLD 4101, Australia",
+        "Business Name" : "South Bank Parklands",
+        "Country Code" : "AU",
+        "Geo Coordinates" : {
+          "Latitude" : "-27.4777164",
+          "Longitude" : "153.0226593"
+        }
+      },
+      "Published" : "2019-11-18T01:47:07Z",
+      "Title" : "South Bank Parklands",
+      "Updated" : "2019-11-18T01:47:07Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 153.0185121, -27.4727805 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17935958501653992598",
+      "Location" : {
+        "Address" : "Grey St & Melbourne St, South Brisbane QLD 4101, Australia",
+        "Business Name" : "Brisbane's Cultural Precinct",
+        "Country Code" : "AU",
+        "Geo Coordinates" : {
+          "Latitude" : "-27.4727805",
+          "Longitude" : "153.0185121"
+        }
+      },
+      "Published" : "2019-11-18T01:46:22Z",
+      "Title" : "Brisbane's Cultural Precinct",
+      "Updated" : "2019-11-18T01:46:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 153.120354, -27.650701 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=3+Leonard+St,+Kingston+QLD+4114,+Australia&ftid=0x6b9143fb4ea8304d:0x53f35946520f9a0",
+      "Location" : {
+        "Latitude" : "-27.650701",
+        "Longitude" : "153.120354"
+      },
+      "Published" : "2019-11-13T03:06:31Z",
+      "Title" : "3 Leonard St, Kingston QLD 4114, Australia",
+      "Updated" : "2019-11-13T03:06:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 153.405045, -27.976850 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=-27.976850338377155,153.4050453454256",
+      "Location" : {
+        "Latitude" : "-27.976850",
+        "Longitude" : "153.405045"
+      },
+      "Published" : "2019-11-13T02:49:34Z",
+      "Title" : "-27.976850338377155,153.4050453454256",
+      "Updated" : "2019-11-13T02:49:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.3277779, 52.4961111 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2072006413172091597",
+      "Location" : {
+        "Address" : "Pariser Straße 58, 10719 Berlin, Germany",
+        "Business Name" : "Shaniu's House of Noodles",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.4961111",
+          "Longitude" : "13.3277779"
+        }
+      },
+      "Published" : "2019-10-08T18:59:54Z",
+      "Title" : "Shaniu's House of Noodles",
+      "Updated" : "2019-10-08T18:59:54Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 30.5193724, 50.4628518 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6476683817958834836",
+      "Location" : {
+        "Address" : "Kontraktova Square, 2/1, Kyiv, Ukraine, 04070",
+        "Business Name" : "Puzata Hata",
+        "Country Code" : "UA",
+        "Geo Coordinates" : {
+          "Latitude" : "50.4628518",
+          "Longitude" : "30.5193724"
+        }
+      },
+      "Published" : "2019-09-10T07:40:37Z",
+      "Title" : "Puzata Hata",
+      "Updated" : "2019-09-10T07:40:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 30.5168760, 50.4597973 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2137587574575532127",
+      "Location" : {
+        "Address" : "Andriivs'kyi descent, 19, Kyiv, Ukraine, 01025",
+        "Business Name" : "Kanapa",
+        "Country Code" : "UA",
+        "Geo Coordinates" : {
+          "Latitude" : "50.4597973",
+          "Longitude" : "30.5168760"
+        }
+      },
+      "Published" : "2019-09-07T20:56:00Z",
+      "Title" : "Kanapa",
+      "Updated" : "2019-09-07T20:56:00Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 30.4999077, 50.4660612 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=644016156745113742",
+      "Location" : {
+        "Address" : "Nyzhnoiurkivska Street, 31, Kyiv, Ukraine, 02000",
+        "Business Name" : "CLOSER",
+        "Country Code" : "UA",
+        "Geo Coordinates" : {
+          "Latitude" : "50.4660612",
+          "Longitude" : "30.4999077"
+        }
+      },
+      "Published" : "2019-09-07T20:52:53Z",
+      "Title" : "CLOSER",
+      "Updated" : "2019-09-07T20:52:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 30.5337859, 50.4515664 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17583277140578928949",
+      "Location" : {
+        "Address" : "Mykhaila Hrushevskoho Street, 3, Kyiv, Ukraine, 01001",
+        "Business Name" : "Hangover",
+        "Country Code" : "UA",
+        "Geo Coordinates" : {
+          "Latitude" : "50.4515664",
+          "Longitude" : "30.5337859"
+        }
+      },
+      "Published" : "2019-09-07T20:52:45Z",
+      "Title" : "Hangover",
+      "Updated" : "2019-09-07T20:52:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 30.5103723, 50.4361113 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6591816944765909661",
+      "Location" : {
+        "Address" : "Saksahanskoho Street, 38, Kyiv, Ukraine, 01033",
+        "Business Name" : "Бездельники",
+        "Country Code" : "UA",
+        "Geo Coordinates" : {
+          "Latitude" : "50.4361113",
+          "Longitude" : "30.5103723"
+        }
+      },
+      "Published" : "2019-09-07T20:52:16Z",
+      "Title" : "Бар \"Бездельники\"",
+      "Updated" : "2019-09-07T20:52:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 30.5402667, 50.4460961 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14403079332902776932",
+      "Location" : {
+        "Address" : "Mykhaila Hrushevskoho Street, Kyiv, Ukraine, 02000",
+        "Business Name" : "Mariinskyi Park",
+        "Country Code" : "UA",
+        "Geo Coordinates" : {
+          "Latitude" : "50.4460961",
+          "Longitude" : "30.5402667"
+        }
+      },
+      "Published" : "2019-09-07T14:48:01Z",
+      "Title" : "Mariinskyi Park",
+      "Updated" : "2019-09-07T14:48:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 30.5276967, 50.4343139 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14299915941311226628",
+      "Location" : {
+        "Address" : "Hospitalna Street, 24А, Kyiv, Ukraine, 01133",
+        "Business Name" : "Kyiv Fortress",
+        "Country Code" : "UA",
+        "Geo Coordinates" : {
+          "Latitude" : "50.4343139",
+          "Longitude" : "30.5276967"
+        }
+      },
+      "Published" : "2019-09-07T10:01:49Z",
+      "Title" : "Kyiv Fortress",
+      "Updated" : "2019-09-07T10:01:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 30.5572558, 50.4346375 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4269591378249418759",
+      "Location" : {
+        "Address" : "Lavrska Street, 15, Kyiv, Ukraine, 01015",
+        "Business Name" : "Kiev Pechersk Lavra",
+        "Country Code" : "UA",
+        "Geo Coordinates" : {
+          "Latitude" : "50.4346375",
+          "Longitude" : "30.5572558"
+        }
+      },
+      "Published" : "2019-09-07T06:37:47Z",
+      "Title" : "Kiev Pechersk Lavra",
+      "Updated" : "2019-09-07T06:37:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 30.5109940, 50.4507832 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11573328308182704179",
+      "Location" : {
+        "Address" : "Yaroslaviv Val Street, 16, А, Kyiv, Ukraine, 01030",
+        "Business Name" : "Taphouse By Collider",
+        "Country Code" : "UA",
+        "Geo Coordinates" : {
+          "Latitude" : "50.4507832",
+          "Longitude" : "30.5109940"
+        }
+      },
+      "Published" : "2019-09-06T10:35:17Z",
+      "Title" : "Taphouse By Collider",
+      "Updated" : "2019-09-06T10:35:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 30.5142089, 50.4678968 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12376805193537909277",
+      "Location" : {
+        "Address" : "Nyzhnii Val Street, 37/20, Kyiv, Ukraine, 04071",
+        "Business Name" : "Crafterz",
+        "Country Code" : "UA",
+        "Geo Coordinates" : {
+          "Latitude" : "50.4678968",
+          "Longitude" : "30.5142089"
+        }
+      },
+      "Published" : "2019-09-06T10:34:48Z",
+      "Title" : "CRAFT vs PUB",
+      "Updated" : "2019-09-06T10:34:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 30.5630543, 50.4265826 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2628758094923825039",
+      "Location" : {
+        "Address" : "Zapecherna Street, Kyiv, Ukraine, 02000",
+        "Business Name" : "The Motherland Monument",
+        "Country Code" : "UA",
+        "Geo Coordinates" : {
+          "Latitude" : "50.4265826",
+          "Longitude" : "30.5630543"
+        }
+      },
+      "Published" : "2019-09-06T10:32:00Z",
+      "Title" : "Mutter-Heimat-Statue",
+      "Updated" : "2019-09-06T10:32:00Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 30.5133317, 50.4488319 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7587304669474467503",
+      "Location" : {
+        "Address" : "Volodymyrska Street, 40А, Kyiv, Ukraine, 01034",
+        "Business Name" : "Golden Gate",
+        "Country Code" : "UA",
+        "Geo Coordinates" : {
+          "Latitude" : "50.4488319",
+          "Longitude" : "30.5133317"
+        }
+      },
+      "Published" : "2019-09-06T10:30:52Z",
+      "Title" : "Golden Gate",
+      "Updated" : "2019-09-06T10:30:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 30.522026, 50.447585 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Khreschatyk+St,+Kyiv,+Ukraine,+02000&ftid=0x40d4ce56b2456d3b:0xd062ae171b57e947",
+      "Location" : {
+        "Latitude" : "50.447585",
+        "Longitude" : "30.522026"
+      },
+      "Published" : "2019-09-06T10:29:53Z",
+      "Title" : "Khreschatyk St, Kyiv, Ukraine, 02000",
+      "Updated" : "2019-09-06T10:29:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 30.5257351, 50.4474345 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10974485720957053639",
+      "Location" : {
+        "Address" : "Khreschatyk Street, 15/4, Kyiv, Ukraine, 01001",
+        "Business Name" : "Chicken Kyiv",
+        "Country Code" : "UA",
+        "Geo Coordinates" : {
+          "Latitude" : "50.4474345",
+          "Longitude" : "30.5257351"
+        }
+      },
+      "Published" : "2019-09-06T10:08:33Z",
+      "Title" : "Chicken Kyiv",
+      "Updated" : "2019-09-06T10:08:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 30.5214412, 50.4428700 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15408880608617341638",
+      "Location" : {
+        "Address" : "Khreschatyk Street, 29/1, Kyiv, Ukraine, 02000",
+        "Business Name" : "Varenychna \"Katyusha\"",
+        "Country Code" : "UA",
+        "Geo Coordinates" : {
+          "Latitude" : "50.4428700",
+          "Longitude" : "30.5214412"
+        }
+      },
+      "Published" : "2019-09-06T10:08:01Z",
+      "Title" : "Varenychna \"Katyusha\"",
+      "Updated" : "2019-09-06T10:08:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 30.5179307, 50.4590318 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11820516325331181226",
+      "Location" : {
+        "Address" : "Andriivs'kyi descent, 23, Kyiv, Ukraine, 04070",
+        "Business Name" : "St. Andrew's Church",
+        "Country Code" : "UA",
+        "Geo Coordinates" : {
+          "Latitude" : "50.4590318",
+          "Longitude" : "30.5179307"
+        }
+      },
+      "Published" : "2019-09-06T10:03:26Z",
+      "Title" : "St. Andrew's Church",
+      "Updated" : "2019-09-06T10:03:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 30.522990, 50.450532 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Independence+Square,+Kyiv,+Ukraine,+02000&ftid=0x40d4ce50f8b6e3c3:0xb528dc4d6dadc4f8",
+      "Location" : {
+        "Latitude" : "50.450532",
+        "Longitude" : "30.522990"
+      },
+      "Published" : "2019-09-06T10:02:53Z",
+      "Title" : "Independence Square, Kyiv, Ukraine, 02000",
+      "Updated" : "2019-09-06T10:02:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 30.5230134, 50.4558456 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1348350065604254313",
+      "Location" : {
+        "Address" : "Triokhsviatytelska Street, 8, Kyiv, Ukraine, 01601",
+        "Business Name" : "St. Michael's Golden-Domed Monastery",
+        "Country Code" : "UA",
+        "Geo Coordinates" : {
+          "Latitude" : "50.4558456",
+          "Longitude" : "30.5230134"
+        }
+      },
+      "Published" : "2019-09-06T10:02:33Z",
+      "Title" : "St. Michael's Golden-Domed Monastery",
+      "Updated" : "2019-09-06T10:02:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 30.5143065, 50.4529095 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14283013177207006260",
+      "Location" : {
+        "Address" : "Volodymyrska Street, 24, Kyiv, Ukraine, 01001",
+        "Business Name" : "St. Sophia's Cathedral",
+        "Country Code" : "UA",
+        "Geo Coordinates" : {
+          "Latitude" : "50.4529095",
+          "Longitude" : "30.5143065"
+        }
+      },
+      "Published" : "2019-09-06T10:01:51Z",
+      "Title" : "St. Sophia's Cathedral",
+      "Updated" : "2019-09-06T10:01:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.6254315, 41.1483446 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7236363821226401080",
+      "Location" : {
+        "Address" : "Rua de Dom Manuel II, 4050-346 Porto, Portugal",
+        "Business Name" : "Jardins do Palácio de Cristal",
+        "Country Code" : "PT",
+        "Geo Coordinates" : {
+          "Latitude" : "41.1483446",
+          "Longitude" : "-8.6254315"
+        }
+      },
+      "Published" : "2019-09-03T11:02:09Z",
+      "Title" : "Jardins do Palácio de Cristal",
+      "Updated" : "2019-09-03T11:02:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.6139938, 41.1458384 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8124884474302192112",
+      "Location" : {
+        "Address" : "Rua de São Filipe de Nery, 4050-546 Porto, Portugal",
+        "Business Name" : "Igreja dos Clérigos",
+        "Country Code" : "PT",
+        "Geo Coordinates" : {
+          "Latitude" : "41.1458384",
+          "Longitude" : "-8.6139938"
+        }
+      },
+      "Published" : "2019-09-03T11:01:41Z",
+      "Title" : "Clérigos Church + Clérigos Tower",
+      "Updated" : "2019-09-03T11:01:41Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.6157173, 41.1410111 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14620361844910888300",
+      "Location" : {
+        "Address" : "Rua do Infante Dom Henrique, 4050-297 Porto, Portugal",
+        "Business Name" : "Monument Church Of St Francis",
+        "Country Code" : "PT",
+        "Geo Coordinates" : {
+          "Latitude" : "41.1410111",
+          "Longitude" : "-8.6157173"
+        }
+      },
+      "Published" : "2019-09-03T11:00:51Z",
+      "Title" : "Monument Church Of St Francis",
+      "Updated" : "2019-09-03T11:00:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.6111836, 41.1428260 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5340368308542978025",
+      "Location" : {
+        "Address" : "Terreiro da Sé, 4050-573 Porto, Portugal",
+        "Business Name" : "Porto Cathedral",
+        "Country Code" : "PT",
+        "Geo Coordinates" : {
+          "Latitude" : "41.1428260",
+          "Longitude" : "-8.6111836"
+        }
+      },
+      "Published" : "2019-09-03T11:00:09Z",
+      "Title" : "Porto Cathedral",
+      "Updated" : "2019-09-03T11:00:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.6105306, 41.1456657 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1319433874625296190",
+      "Location" : {
+        "Address" : "Praça de Almeida Garrett, 4000-069 Porto, Portugal",
+        "Business Name" : "São Bento Station",
+        "Country Code" : "PT",
+        "Geo Coordinates" : {
+          "Latitude" : "41.1456657",
+          "Longitude" : "-8.6105306"
+        }
+      },
+      "Published" : "2019-09-03T10:58:04Z",
+      "Title" : "São Bento Station",
+      "Updated" : "2019-09-03T10:58:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.6147746, 41.1469055 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9153637019004560463",
+      "Location" : {
+        "Address" : "Rua das Carmelitas 144, 4050-161 Porto, Portugal",
+        "Business Name" : "Livraria Lello",
+        "Country Code" : "PT",
+        "Geo Coordinates" : {
+          "Latitude" : "41.1469055",
+          "Longitude" : "-8.6147746"
+        }
+      },
+      "Published" : "2019-09-03T10:55:50Z",
+      "Title" : "Livraria Lello",
+      "Updated" : "2019-09-03T10:55:50Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.6162729, 41.1473563 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=94155390668792436",
+      "Location" : {
+        "Address" : "Rua do Carmo, 4050-164 Porto, Portugal",
+        "Business Name" : "Igreja do Carmo",
+        "Country Code" : "PT",
+        "Geo Coordinates" : {
+          "Latitude" : "41.1473563",
+          "Longitude" : "-8.6162729"
+        }
+      },
+      "Published" : "2019-09-03T10:54:55Z",
+      "Title" : "Igreja do Carmo",
+      "Updated" : "2019-09-03T10:54:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.6142869, 41.1339521 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2914375595922537526",
+      "Location" : {
+        "Address" : "Rua do Choupelo 250, 4400-088 Vila Nova de Gaia, Portugal",
+        "Business Name" : "Taylor's Port",
+        "Country Code" : "PT",
+        "Geo Coordinates" : {
+          "Latitude" : "41.1339521",
+          "Longitude" : "-8.6142869"
+        }
+      },
+      "Published" : "2019-09-03T10:53:04Z",
+      "Title" : "Taylor's Port",
+      "Updated" : "2019-09-03T10:53:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.6094485, 41.1399589 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14004858726612560555",
+      "Location" : {
+        "Address" : "Ponte Luiz I, Porto, Portugal",
+        "Business Name" : "Luís I Bridge",
+        "Country Code" : "PT",
+        "Geo Coordinates" : {
+          "Latitude" : "41.1399589",
+          "Longitude" : "-8.6094485"
+        }
+      },
+      "Published" : "2019-09-03T10:52:12Z",
+      "Title" : "Luís I Bridge",
+      "Updated" : "2019-09-03T10:52:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.608847, 41.141369 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Escada+dos+Guindais,+Porto,+Portugal&ftid=0xd2464e71c019c39:0x26493958847219d3",
+      "Location" : {
+        "Latitude" : "41.141369",
+        "Longitude" : "-8.608847"
+      },
+      "Published" : "2019-09-03T10:51:59Z",
+      "Title" : "Escada dos Guindais, Porto, Portugal",
+      "Updated" : "2019-09-03T10:51:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.895785, 37.184335 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Carrapateira,+Aljezur,+Portugal&ftid=0xd1b468cea37320f:0xc144682c46fc208c",
+      "Location" : {
+        "Latitude" : "37.184335",
+        "Longitude" : "-8.895785"
+      },
+      "Published" : "2019-08-31T12:56:00Z",
+      "Title" : "Carrapateira, Aljezur, Portugal",
+      "Updated" : "2019-08-31T12:56:00Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.402435, 52.541240 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=52.541240,13.402435",
+      "Location" : {
+        "Latitude" : "52.541240",
+        "Longitude" : "13.402435"
+      },
+      "Published" : "2019-03-01T12:09:57Z",
+      "Title" : "52.541240,13.402435",
+      "Updated" : "2019-07-12T10:39:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.4071189, 52.5031336 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16627948684192789087",
+      "Location" : {
+        "Address" : "Ritterstraße 26, 10969 Berlin, Germany",
+        "Business Name" : "Ritter Butzke",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.5031336",
+          "Longitude" : "13.4071189"
+        }
+      },
+      "Published" : "2019-04-07T00:23:05Z",
+      "Title" : "Ritter Butzke",
+      "Updated" : "2019-04-07T00:23:05Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.4074139, 52.5240306 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11885277112992234057",
+      "Location" : {
+        "Address" : "Rochstraße 3, 10178 Berlin, Germany",
+        "Business Name" : "COOP Anti-War cafe bar",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.5240306",
+          "Longitude" : "13.4074139"
+        }
+      },
+      "Published" : "2019-03-22T23:27:07Z",
+      "Title" : "COOP Anti-War Café-Bar",
+      "Updated" : "2019-03-22T23:27:07Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.071509, 52.412080 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Heiliger+See,+Potsdam&ftid=0x47a8f674701c417b:0xd135a937a5653506",
+      "Location" : {
+        "Latitude" : "52.412080",
+        "Longitude" : "13.071509"
+      },
+      "Published" : "2019-03-09T08:40:49Z",
+      "Title" : "Heiliger See, Potsdam",
+      "Updated" : "2019-03-09T08:40:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.0571035, 52.4032071 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15440134785915867991",
+      "Location" : {
+        "Address" : "Hegelallee 55, 14467 Potsdam, Germany",
+        "Business Name" : "Wochenmarkt am Nauener Tor",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.4032071",
+          "Longitude" : "13.0571035"
+        }
+      },
+      "Published" : "2019-03-09T08:37:16Z",
+      "Title" : "Wochenmarkt am Nauener Tor",
+      "Updated" : "2019-03-09T08:37:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.0696852, 52.4221304 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14455938940118492283",
+      "Location" : {
+        "Address" : "Im Neuen Garten 10, 14469 Potsdam, Germany",
+        "Business Name" : "Dairy in the New Garden",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.4221304",
+          "Longitude" : "13.0696852"
+        }
+      },
+      "Published" : "2019-03-09T08:35:34Z",
+      "Title" : "Gasthausbrauerei Meierei im Neuen Garten GmbH",
+      "Updated" : "2019-03-09T08:35:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.0532917, 52.4005837 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8043216990269528403",
+      "Location" : {
+        "Address" : "Dortustraße 15, 14467 Potsdam, Germany",
+        "Business Name" : "Rosenberg",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.4005837",
+          "Longitude" : "13.0532917"
+        }
+      },
+      "Published" : "2019-03-09T08:27:45Z",
+      "Title" : "Rosenberg",
+      "Updated" : "2019-03-09T08:27:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.3837440, 52.5043080 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8488453084640908028",
+      "Location" : {
+        "Address" : "Stresemannstraße 76 (Im Innenhof, 10963 Berlin, Germany",
+        "Business Name" : "SOLAR Bar Restaurant Lounge",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.5043080",
+          "Longitude" : "13.3837440"
+        }
+      },
+      "Published" : "2019-03-07T20:34:08Z",
+      "Title" : "SOLAR Bar Restaurant Lounge",
+      "Updated" : "2019-03-07T20:34:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.4065566, 52.5243955 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11308761983943577267",
+      "Location" : {
+        "Address" : "Münzstraße 21, 10178 Berlin, Germany",
+        "Business Name" : "Father Carpenter",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.5243955",
+          "Longitude" : "13.4065566"
+        }
+      },
+      "Published" : "2019-03-02T14:55:02Z",
+      "Title" : "Father Carpenter Coffee Brewers",
+      "Updated" : "2019-03-02T14:55:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.430347, 52.492725 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Maybachufer,+Berlin&ftid=0x47a84fb4141dd94b:0x4870566ee5a917ea",
+      "Location" : {
+        "Latitude" : "52.492725",
+        "Longitude" : "13.430347"
+      },
+      "Published" : "2019-03-01T12:10:16Z",
+      "Title" : "Maybachufer, Berlin",
+      "Updated" : "2019-03-01T12:10:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.3974463, 52.5290239 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11687159202290696766",
+      "Location" : {
+        "Address" : "Ackerstraße 173, 10115 Berlin, Germany",
+        "Business Name" : "Röststätte",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.5290239",
+          "Longitude" : "13.3974463"
+        }
+      },
+      "Published" : "2019-03-01T12:07:52Z",
+      "Title" : "Röststätte Berlin",
+      "Updated" : "2019-03-01T12:07:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.4022848, 52.5241984 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17339494188692075289",
+      "Location" : {
+        "Address" : "Rosenthaler Straße 40-41 Hackesche Höfe (Hof 1, 10178, Germany",
+        "Business Name" : "Röststätte Berlin",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.5241984",
+          "Longitude" : "13.4022848"
+        }
+      },
+      "Published" : "2019-03-01T12:07:13Z",
+      "Title" : "Röststätte Berlin",
+      "Updated" : "2019-03-01T12:07:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.4317228, 52.5019768 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10953314371184579858",
+      "Location" : {
+        "Address" : "Eisenbahnstraße 42/43, 10997 Berlin, Germany",
+        "Business Name" : "Markthalle Neun",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.5019768",
+          "Longitude" : "13.4317228"
+        }
+      },
+      "Published" : "2019-03-01T12:04:55Z",
+      "Title" : "Markthalle Neun",
+      "Updated" : "2019-03-01T12:04:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.3795030, 52.5324260 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3568771786146109141",
+      "Location" : {
+        "Address" : "Habersaathstraße 52, 10115 Berlin, Germany",
+        "Business Name" : "+84 Vietnamese Vegan Kitchen",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.5324260",
+          "Longitude" : "13.3795030"
+        }
+      },
+      "Published" : "2019-03-01T12:02:51Z",
+      "Title" : "+84",
+      "Updated" : "2019-03-01T12:02:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.3953026, 52.5315246 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3093628616215553188",
+      "Location" : {
+        "Address" : "Bergstraße 22, 10115 Berlin, Germany",
+        "Business Name" : "Katz Orange",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.5315246",
+          "Longitude" : "13.3953026"
+        }
+      },
+      "Published" : "2019-03-01T12:02:08Z",
+      "Title" : "Katz Orange",
+      "Updated" : "2019-03-01T12:02:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.4255974, 52.5122218 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4005469208896526060",
+      "Location" : {
+        "Address" : "Holzmarktstraße 25, 10243 Berlin, Germany",
+        "Business Name" : "Kater Blau",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.5122218",
+          "Longitude" : "13.4255974"
+        }
+      },
+      "Published" : "2019-03-01T12:01:38Z",
+      "Title" : "Kater Blau",
+      "Updated" : "2019-03-01T12:01:38Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.4344567, 52.4812526 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9444363191660775211",
+      "Location" : {
+        "Address" : "Karl-Marx-Straße 82, 12043 Berlin, Germany",
+        "Business Name" : "Kropp Delikatessen und Feinkost",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.4812526",
+          "Longitude" : "13.4344567"
+        }
+      },
+      "Published" : "2019-02-09T21:50:02Z",
+      "Title" : "Kropp Delikatessen und Feinkost",
+      "Updated" : "2019-02-09T21:50:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.3383349, 52.4737752 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13383657543209065497",
+      "Location" : {
+        "Address" : "Hauptstraße 85, 12159 Berlin, Germany",
+        "Business Name" : "Malafemmena",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.4737752",
+          "Longitude" : "13.3383349"
+        }
+      },
+      "Published" : "2019-02-04T11:36:03Z",
+      "Title" : "Malafemmena",
+      "Updated" : "2019-02-04T11:36:03Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.4391885, 52.4805458 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18246142327844220752",
+      "Location" : {
+        "Address" : "Anzengruberstraße 20, 12043 Berlin, Germany",
+        "Business Name" : "OS'Kitchen",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "52.4805458",
+          "Longitude" : "13.4391885"
+        }
+      },
+      "Published" : "2019-02-04T11:35:40Z",
+      "Title" : "OS'Kitchen",
+      "Updated" : "2019-02-04T11:35:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 6.7771325, 51.2108917 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=307852761980277473",
+      "Location" : {
+        "Address" : "Bilker Allee 164, 40217 Düsseldorf, Germany",
+        "Business Name" : "Vietnam Street Food",
+        "Country Code" : "DE",
+        "Geo Coordinates" : {
+          "Latitude" : "51.2108917",
+          "Longitude" : "6.7771325"
+        }
+      },
+      "Published" : "2018-12-11T20:41:47Z",
+      "Title" : "Vietnam Street Food",
+      "Updated" : "2018-12-11T20:41:47Z"
+    },
+    "type" : "Feature"
+  } ]
+}
