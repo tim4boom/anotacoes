@@ -1,4 +1,4 @@
-# Paintings that I like
+# PAINTINGS
 
 #### Le petit talibé, Paul Alexandre Leroy
 
