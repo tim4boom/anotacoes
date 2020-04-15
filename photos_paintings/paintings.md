@@ -28,7 +28,7 @@
 
 [Straße in Louveciennes, Schnee](https://cldup.com/TXnhtjEyUg.jpg)
 
-## ANDERS ZORN
+## Anders Zorn
 
 ["Kaikroddare III"](https://cldup.com/N1tXMkbJcR.jpg)
 
