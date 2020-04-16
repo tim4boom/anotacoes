@@ -30,6 +30,26 @@ Despite its challenges, crofting is important to the Highlands and Islands. Crof
 
 ## Freight container
 
+* 20’ Standard Container (l x b x h) = Außen: 6,058m x 2,438m x 2,591m - Innen 5,898m x 2,352m x 2,385m
+
+* 40’ Container ein gängige Format & HC Container mit erhöhtem Innenraum: 2,385m + 0,313m = 2.698m
+
+* Problem: Höhe fehlt.
+
+* Wohnraum nach deutschem Gesetze min. 2,40m Raumhöhe
+
+* Container mit 2,385m Innenraum hat nicht die notwendige Höhe um als Wohnraum zu dienen + Haus muss gedämmt werden (ohne Dämmung zu kalt im Winter und im Sommer zu heiss).
+
+* 2 Alternativen (Dämmung innen oder Dämmung außen): Gesetzliches Minimum Dämmung innen - ca. 22cm oben, 10cm unten, 4cm je für Boden- und Deckenaufbau = Innenraum ca. 2,00m.
+
+* Ergebnis: Dämmung außen! Allerdings Transportfähigkeit der Module => Ein Lastwagen hat auch maximal Abmessungen - Breite 2,55m Höhe 4,00m (inklusive Räder).
+
+* Dämmung außen => Modul nicht als Standard Container transportierbar
+
+* HC Container ohne Außendämmung geht gar nicht auf die Straße ohne Sondergenehmigung.
+
 [BigBoxBerlin](https://bigboxberlin.de/)
 
 [Homify Ideas](https://www.homify.de/ideenbuecher/18848/die-guenstige-variante-zum-haus-containerhaus)
+
+[The Tiny Way](https://www.tinyway.de/)
