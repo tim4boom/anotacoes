@@ -13,6 +13,7 @@
 * 125 ml coconut milk , plus extra to serve
 * ½ tablespoon chilli powder
 * 1 lime
+* Optional:
 
 [Method]
 
