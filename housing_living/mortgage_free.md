@@ -53,3 +53,5 @@ Despite its challenges, crofting is important to the Highlands and Islands. Crof
 [Homify Ideas](https://www.homify.de/ideenbuecher/18848/die-guenstige-variante-zum-haus-containerhaus)
 
 [The Tiny Way](https://www.tinyway.de/)
+
+[Umbau eines Seecontainers zur Wohnung - Wissenswertes](https://www.my-hammer.de/artikel/umbau-eines-seecontainers-zur-wohnung-wissenswertes.html)
