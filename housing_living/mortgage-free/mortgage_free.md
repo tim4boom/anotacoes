@@ -24,6 +24,8 @@
 
 * [The Modern Home Project](https://www.youtube.com/watch?v=QA5fh29rhLs)
 
+* [Tipps Kostenfallen](https://www.youtube.com/watch?v=y8d4xVzoA5g)
+
 ## Buying containers
 
 * [Containerbasis - Container kaufen](https://www.containerbasis.de/)
