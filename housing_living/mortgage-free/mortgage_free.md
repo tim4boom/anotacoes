@@ -16,19 +16,23 @@
 
 ## Ideas
 
-[Umbau eines Seecontainers zur Wohnung - Wissenswertes](https://www.my-hammer.de/artikel/umbau-eines-seecontainers-zur-wohnung-wissenswertes.html)
+* [Umbau eines Seecontainers zur Wohnung - Wissenswertes](https://www.my-hammer.de/artikel/umbau-eines-seecontainers-zur-wohnung-wissenswertes.html)
 
-[Homify Ideas](https://www.homify.de/ideenbuecher/18848/die-guenstige-variante-zum-haus-containerhaus)
+* [Homify Ideas](https://www.homify.de/ideenbuecher/18848/die-guenstige-variante-zum-haus-containerhaus)
 
-# Buying containers
+## Video diary / tutorial
 
-[Containerbasis - Container kaufen](https://www.containerbasis.de/)
+* [The Modern Home Project](https://www.youtube.com/watch?v=QA5fh29rhLs)
+
+## Buying containers
+
+* [Containerbasis - Container kaufen](https://www.containerbasis.de/)
 
 ## Ready container houses
 
-[BigBoxBerlin](https://bigboxberlin.de/)
+* [BigBoxBerlin](https://bigboxberlin.de/)
 
-[The Tiny Way](https://www.tinyway.de/)
+* [The Tiny Way](https://www.tinyway.de/)
 
 ## Container architects
 
