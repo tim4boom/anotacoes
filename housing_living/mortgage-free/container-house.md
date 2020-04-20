@@ -34,3 +34,7 @@
 * [2x20](http://www.twotimestwentyfeet.com/)
 * [LoftMobile](https://www.loftmobile.de/)
 * [Conhouse](https://www.loftmobile.de/)
+
+## Financing
+
+* [GLS-Bank](https://www.gls.de/privatkunden/)
