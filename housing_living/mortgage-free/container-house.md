@@ -10,6 +10,10 @@
 * 40’ HC Container (l x b x h) = External: 12.192m x 2.438m x 2.896m - Internal: 12.032m x 2.352m x 2.698m
 * 45’ HC Container (l x b x h) = External: 13.716m x 2.438m x 2.896m - Internal: 13.556m x 2.345m x 2.695m
 
+## Container houses Berlin
+
+* [Artikel](https://wohnglueck.de/artikel/tiny-houses-berlin-brandenburg-25380)
+
 ## Ideas
 
 * [Umbau eines Seecontainers zur Wohnung - Wissenswertes](https://www.my-hammer.de/artikel/umbau-eines-seecontainers-zur-wohnung-wissenswertes.html)
