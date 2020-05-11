@@ -12,7 +12,7 @@
 
 ## Container houses Berlin
 
-* [Artikel](https://wohnglueck.de/artikel/tiny-houses-berlin-brandenburg-25380)
+* [Article](https://wohnglueck.de/artikel/tiny-houses-berlin-brandenburg-25380)
 
 ## Ideas
 
